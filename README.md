@@ -1,0 +1,2 @@
+# PepperHackathon2019
+名城大学で行われたPepper Hackathon 2019で作成した情報工学科紹介ページ
